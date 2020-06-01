@@ -1,2 +1,2 @@
-# SoftUni-HomeWorks
+# SoftUni-Homeworks
 Homeworks
