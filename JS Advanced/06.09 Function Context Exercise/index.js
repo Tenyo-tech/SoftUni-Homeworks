@@ -7,7 +7,6 @@ function solve(){
       const target = e.target.parentNode;
 
       if (target.nodeName === "TR"){
-
          if (target.style.backgroundColor !== ""){
             target.style.backgroundColor = "";
          } else {
