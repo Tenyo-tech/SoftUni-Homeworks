@@ -1,4 +1,4 @@
-function solve(input)
+function solve(...input)
 {
     let number = input[0];
 
@@ -35,6 +35,5 @@ function solve(input)
 
 }
 
-solve(['32', 'chop', 'chop', 'chop', 'chop', 'chop']);
-console.log(' ')
-solve(['9', 'dice', 'spice', 'chop', 'bake', 'fillet']);
+solve('32', 'chop', 'chop', 'chop', 'chop', 'chop');
+solve('9', 'dice', 'spice', 'chop', 'bake', 'fillet');
